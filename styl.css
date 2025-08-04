@@ -17,8 +17,13 @@ img{
 }
 
 .perfil{
-    height: 70px;
-    width: 70px;
-    background-color: #361A01;
+    height: 50px;
+    width: 50px;
+    background-color: #743e0f;
     border-radius: 100%;
+}
+
+.tudo{
+    display: flex;
+    
 }
