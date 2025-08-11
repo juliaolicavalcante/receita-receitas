@@ -28,10 +28,3 @@ img{
     justify-content: space-around;
     margin: 10px 0;
 }
-
-.linha {
-    width: 75%;
-    border-bottom: 2px solid #000000;
-    margin: auto;
-    padding-top: 40px;
-}
