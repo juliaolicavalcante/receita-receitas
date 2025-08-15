@@ -41,23 +41,36 @@ img {
 
 .abaixo a {
     text-decoration: none;
-    color: #361A01; 
+    color: #361A01;
     padding: 20px
 }
 
-.abaixo a:hover{
+.abaixo a:hover {
     color: #a0a0a0;
 }
 
-.tudo a{
+.tudo a {
     font-size: 30px;
     color: #361A01;
 }
-.tudo a:hover{
+
+.tudo a:hover {
     font-size: 30px;
     color: #a0a0a0;
 }
 
-.ultimas p{
-    
+.ultimas p {
+    text-align: center;
+    margin: 15px;
+    font-size: 20px;
+}
+
+.img-receitas {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imagens{
+    width: 336px;
+    height: 224px;
 }
