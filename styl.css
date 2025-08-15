@@ -3,22 +3,22 @@
     padding: 0;
 }
 
-body{
+body {
     background-color: #F0BB8C;
 }
 
-img{
+img {
     height: 35px;
 }
 
-.perfil{
+.perfil {
     height: 50px;
     width: 50px;
     background-color: #743e0f;
     border-radius: 100%;
 }
 
-.tudo{
+.tudo {
     display: flex;
     justify-content: space-around;
     padding: 10px 0;
@@ -26,16 +26,24 @@ img{
     color: #000000;
 }
 
-.linha{
+.linha {
     width: 100%;
     border-bottom: 2px solid #000000;
     margin: auto;
 }
 
-.abaixo{
+.abaixo {
     background-color: #D9D9D9;
     display: flex;
     justify-content: space-around;
-    text-decoration: none;
 
+}
+
+.abaixo a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.abaixo a:hover{
+    color: #D9D9D9;
 }
