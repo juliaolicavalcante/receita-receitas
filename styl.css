@@ -48,3 +48,7 @@ img {
 .abaixo a:hover{
     color: #FFFFFF;
 }
+
+.tudo a{
+    font-size: 30px;
+}
