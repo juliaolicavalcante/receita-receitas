@@ -41,14 +41,19 @@ img {
 
 .abaixo a {
     text-decoration: none;
-    color: #000000; 
+    color: #361A01; 
     padding: 20px
 }
 
 .abaixo a:hover{
-    color: #FFFFFF;
+    color: #a0a0a0;
 }
 
 .tudo a{
     font-size: 30px;
+    color: #361A01;
+}
+.tudo a:hover{
+    font-size: 30px;
+    color: #a0a0a0;
 }
