@@ -78,5 +78,16 @@ img {
 .linha2 {
     width: 35%;
     border-bottom: 2px solid #000000;
-    margin: auto;
+}
+
+.noticias{
+display: flex;
+}
+
+.esquerda{
+    margin-left:0 ;
+}
+
+.direita{
+    margin-right: 0;
 }
