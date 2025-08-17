@@ -110,6 +110,10 @@ img {
     grid-template-columns: 35% 65%;
 }
 
+.noticias-imagens:hover{
+    background-color: #00000033;
+}
+
 .noticias-imagens img {
     width: 336px;
     height: 224px;
