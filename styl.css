@@ -119,7 +119,6 @@ img {
 
 .noticias-p{
     font-size: 22px;
-    text-decoration: none;
     color: #ffffff;
     text-align: justify;
 }
@@ -127,4 +126,8 @@ img {
 .paragrafo-n{
     font-size: 28px;
     color: #ffffff;
+}
+
+.noticias-imagens a{
+    text-decoration: none;
 }
