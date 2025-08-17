@@ -128,6 +128,10 @@ img {
     color: #ffffff;
 }
 
-.noticias-imagens a{
+.aleatorio a{
     text-decoration: none;
+}
+
+.aleatorio{
+    margin: 0 20px 20px 20px;
 }
