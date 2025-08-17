@@ -100,3 +100,7 @@ img {
     text-decoration: none;
     color: #ffffff;
 }
+
+.imagens:hover{
+    background-color: #00000033;
+}
