@@ -76,8 +76,8 @@ img {
     height: 224px;
 }
 
-.imagens p{
-    font-size: 22px ;
+.imagens p {
+    font-size: 22px;
 }
 
 .linha2 {
@@ -91,25 +91,32 @@ img {
     justify-content: center;
 }
 
-.noticias p{
+.noticias p {
     margin: 50px;
     font-size: 20PX;
 }
 
-.imagens a{
+.imagens a {
     text-decoration: none;
     color: #ffffff;
 }
 
-.imagens:hover{
+.imagens:hover {
     background-color: #00000033;
 }
 
-.noticias-imagens{
+.noticias-imagens {
     display: grid;
     grid-template-columns: 35% 65%;
 }
-.noticias-imagens img{
-        width: 336px;
+
+.noticias-imagens img {
+    width: 336px;
     height: 224px;
-} 
+    padding-left: 80px;
+    padding-bottom: 20px;
+}
+
+.noticias p{
+    
+}
