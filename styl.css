@@ -104,3 +104,8 @@ img {
 .imagens:hover{
     background-color: #00000033;
 }
+
+.noticias-imagens{
+    display: grid;
+    grid-template-columns: 35% 65%;
+}
