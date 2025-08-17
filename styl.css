@@ -158,6 +158,10 @@ ol {
     margin-left: 20px;
 }
 
+li{
+    color: #565656;
+}
+
 .botao {
     display: inline-block;
     margin-top: 20px;
