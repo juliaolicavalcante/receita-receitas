@@ -162,16 +162,7 @@ li{
     color: #565656;
 }
 
-.botao {
-    display: inline-block;
-    margin-top: 20px;
-    background: #d2691e;
-    color: white;
-    padding: 8px 12px;
-    border-radius: 5px;
-    text-decoration: none;
-}
-
-.botao:hover {
-    background: #a0522d;
+.titulo h1{
+    text-align: center;
+    font-size: 40px;
 }
